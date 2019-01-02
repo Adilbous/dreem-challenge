@@ -6,7 +6,7 @@ Sleep Stage Classification Kaggle Challenge.
 
 Dreem headband allows doing polysomnography at home signal thanks to three kinds of sensors: electroencephalogram (EEG), pulse oximeter and accelerometer signals.
 
-## What is project about ? 
+## What is this project about ? 
 
 Since the Dreem headband records a lot of nights every day, the aim is to developp the most accurate automatic sleep staging algorithms. The idea is to develop an algorithm of sleep staging able to differentiate between Wake, N1, N2, N3 and REM on windows of 30 seconds of raw data. The raw data includes 7 eegs channels in frontal and occipital position, 1 pulse oximeter infrared channel, and 3 accelerometers channels (x, y and z).
 
